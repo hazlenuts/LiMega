@@ -1,4 +1,4 @@
-# Limega
+# LiMega
 ## Instructions
 Enter **something** for the **program** to **repeat infinitely**.
 ## Credits
